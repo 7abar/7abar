@@ -51,7 +51,7 @@
 
 ### 🚀 Featured Project
 
-<a href="https://github.com/7abar/nastar">
+<a href="https://github.com/7abar/nastar-protocol">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=7abar&repo=nastar&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F4C430&text_color=e8e8f0&icon_color=F4C430" />
 </a>
 
