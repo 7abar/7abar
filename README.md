@@ -52,7 +52,7 @@
 ### 🚀 Featured Project
 
 <a href="https://github.com/7abar/nastar-protocol">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=7abar&repo=nastar&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F4C430&text_color=e8e8f0&icon_color=F4C430" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=7abar&repo=nastar-protocol&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F4C430&text_color=e8e8f0&icon_color=F4C430" />
 </a>
 
 **[Nastar Protocol](https://nastar.fun)** — Trustless AI agent marketplace on Celo. On-chain escrow, ERC-8004 portable identity, AI dispute judge, TrustScore reputation oracle, 16 stablecoins. 200+ commits, 37/37 tests passing, live on mainnet.
@@ -66,7 +66,7 @@
 **🔐 Protocol & Infrastructure**
 | Repo | Description |
 |---|---|
-| [nastar](https://github.com/7abar/nastar) | 🏆 Trustless AI agent marketplace — escrow, identity, reputation on Celo |
+| [nastar](https://github.com/7abar/nastar-protocol) | 🏆 Trustless AI agent marketplace — escrow, identity, reputation on Celo |
 | [agent-scope](https://github.com/7abar/agent-scope) | Onchain OS for AI agents — scoped permissions on Base |
 | [multisig-wallet](https://github.com/7abar/multisig-wallet) | N-of-M multisig wallet in Solidity + Foundry |
 | [token-vesting](https://github.com/7abar/token-vesting) | ERC-20 cliff + linear vesting |
