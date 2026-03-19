@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F4C430&width=650&lines=Web3+Builder+%7C+AI+x+Solidity;Building+Nastar+%E2%80%94+Trustless+AI+Agent+Marketplace+on+Celo;Solidity+%7C+Foundry+%7C+TypeScript+%7C+Celo;Open+to+Collaborate+%26+Web3+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F4C430&width=650&lines=Web3+Builder+%7C+AI+x+Solidity;Building+Nastar+%E2%80%94+Trustless+AI+Agent+Marketplace+on+Celo;Synthesis+Hackathon+2026+%F0%9F%8F%86;Solidity+%7C+Foundry+%7C+TypeScript+%7C+Celo;Open+to+Collaborate+%26+Web3+Roles" alt="Typing SVG" />
 
 <br/>
 
@@ -13,9 +13,10 @@
 ### 👋 About Me
 
 - 🔭 Building **[Nastar Protocol](https://nastar.fun)** — trustless AI agent marketplace with on-chain escrow on Celo
+- 🏆 Competing in **[Synthesis Hackathon 2026](https://synthesis.md)** — the first builder event judged by AI agents
 - 🤖 Thesis: *AI agents are evolving from "being able to talk" to "being able to transact." The missing piece is trustless payments and portable reputation.*
 - ⚡ Focus: **DeFi / AI Agents / Onchain Infrastructure / EVM**
-- 🌱 Deep diving into: **Solidity security, agent-native protocols, Celo ecosystem, ERC-8004 identity**
+- 🌱 Deep diving into: **Solidity security, agent-native protocols, Celo ecosystem, ERC-8004 identity, MCP interop**
 - 👯 Open to collaborating on any blockchain / AI x Web3 projects
 - 💼 Seeking: **Web3 Developer roles**
 - 📫 Reach me: [@x7abar](https://t.me/x7abar)
@@ -38,14 +39,23 @@
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-FF4C39?style=flat-square&logo=rust&logoColor=white)
 ![viem](https://img.shields.io/badge/viem-6366F1?style=flat-square)
+![wagmi](https://img.shields.io/badge/wagmi-35D07F?style=flat-square)
 
-**Tools & AI**
+**Frontend & Backend**
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**AI & Agent Infra**
 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square)
 ![OpenClaw](https://img.shields.io/badge/OpenClaw-6366F1?style=flat-square)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![MCP](https://img.shields.io/badge/MCP-FF6B6B?style=flat-square)
+![A2A](https://img.shields.io/badge/A2A-4285F4?style=flat-square)
+![ERC--8004](https://img.shields.io/badge/ERC--8004-F4C430?style=flat-square)
 
 ---
 
@@ -55,9 +65,32 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=7abar&repo=nastar-protocol&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F4C430&text_color=e8e8f0&icon_color=F4C430" />
 </a>
 
-**[Nastar Protocol](https://nastar.fun)** — Trustless AI agent marketplace on Celo. On-chain escrow, ERC-8004 portable identity, AI dispute judge, TrustScore reputation oracle, 16 stablecoins. 200+ commits, 37/37 tests passing, live on mainnet.
+<br/><br/>
 
-→ [Live App](https://nastar.fun) · [Browse Agents](https://nastar.fun/browse) · [CeloScan](https://celoscan.io/address/0x132ab4b07849a5cee5104c2be32b32f9240b97ff)
+**[Nastar Protocol](https://nastar.fun)** — Trustless AI agent marketplace on Celo mainnet.
+
+| Metric | Value |
+|---|---|
+| **On-Chain Deals** | 28+ executed, 20+ completed |
+| **Registered Agents** | 11 with ERC-8004 identity |
+| **Stablecoins** | 16 Mento currencies |
+| **Commits** | 275+ |
+| **Tests** | 37/37 passing |
+| **Audit Rounds** | 4 completed |
+
+**Core Features:**
+- On-chain escrow with auto-confirm delivery
+- ERC-8004 portable identity (reputation travels with the NFT)
+- AI dispute judge (LLM reviews evidence, executes fair split on-chain)
+- TrustScore reputation oracle (computed from chain data)
+- Gas-sponsored deployment (users need zero CELO)
+- MCP server (7 tools) + A2A agent cards for agent-to-agent interop
+- Self Protocol ZK proof-of-human verification
+- No-code agent launcher with 7 templates
+
+**Hackathon Themes:** Agents that pay · trust · cooperate · keep secrets
+
+→ [Live App](https://nastar.fun) · [Browse Agents](https://nastar.fun/browse) · [Launch Agent](https://nastar.fun/launch) · [MCP](https://api.nastar.fun/.well-known/mcp.json) · [CeloScan](https://celoscan.io/address/0x132ab4b07849a5cee5104c2be32b32f9240b97ff)
 
 ---
 
@@ -66,7 +99,7 @@
 **🔐 Protocol & Infrastructure**
 | Repo | Description |
 |---|---|
-| [nastar](https://github.com/7abar/nastar-protocol) | 🏆 Trustless AI agent marketplace — escrow, identity, reputation on Celo |
+| [nastar-protocol](https://github.com/7abar/nastar-protocol) | 🏆 Trustless AI agent marketplace — escrow, identity, reputation on Celo |
 | [agent-scope](https://github.com/7abar/agent-scope) | Onchain OS for AI agents — scoped permissions on Base |
 | [multisig-wallet](https://github.com/7abar/multisig-wallet) | N-of-M multisig wallet in Solidity + Foundry |
 | [token-vesting](https://github.com/7abar/token-vesting) | ERC-20 cliff + linear vesting |
@@ -111,10 +144,16 @@
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=7abar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F4C430&text_color=e8e8f0&icon_color=F4C430&count_private=true" />
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7abar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=F4C430&text_color=e8e8f0" />
 
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=7abar&theme=tokyonight&hide_border=true&background=0d1117&ring=F4C430&fire=F4C430&currStreakLabel=F4C430)](https://github.com/7abar)
+
 </div>
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=7abar&color=F4C430&style=flat-square&label=profile+views" />
+  <br/><br/>
+  <i>Building the trustless agent economy. One smart contract at a time.</i>
 </div>
