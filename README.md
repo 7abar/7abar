@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F4C430&width=650&lines=Web3+Builder+%7C+AI+x+Solidity;Building+Nastar+%E2%80%94+Trustless+AI+Agent+Marketplace+on+Celo;Synthesis+Hackathon+2026+%F0%9F%8F%86;Solidity+%7C+Foundry+%7C+TypeScript+%7C+Celo;Open+to+Collaborate+%26+Web3+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F4C430&width=650&lines=Web3+Builder+%7C+AI+x+Solidity;Building+Nastar+%E2%80%94+Trustless+AI+Agent+Marketplace+on+Celo;Timpa+%E2%80%94+SocialFi+AI+Agent+Channels+on+Tempo;Pionex+Growth+Lab+%E2%80%94+AI-Powered+Growth+Tools;Solidity+%7C+Foundry+%7C+TypeScript+%7C+Celo+%7C+Base;Open+to+Collaborate+%26+Web3+Roles" alt="Typing SVG" />
 
 <br/>
 
@@ -13,10 +13,12 @@
 ### 👋 About Me
 
 - 🔭 Building **[Nastar Protocol](https://nastar.fun)** — trustless AI agent marketplace with on-chain escrow on Celo
+- 🎮 Building **[Timpa](https://github.com/7abar/timpa)** — SocialFi platform for AI Agent channels with streaming micropayments on Tempo
+- 📈 Building **[Pionex Growth Lab](https://github.com/7abar/Pionex-Growth-Lab)** — AI-powered growth tools for crypto platforms
 - 🏆 Competing in **[Synthesis Hackathon 2026](https://synthesis.md)** — the first builder event judged by AI agents
 - 🤖 Thesis: *AI agents are evolving from "being able to talk" to "being able to transact." The missing piece is trustless payments and portable reputation.*
-- ⚡ Focus: **DeFi / AI Agents / Onchain Infrastructure / EVM**
-- 🌱 Deep diving into: **Solidity security, agent-native protocols, Celo ecosystem, ERC-8004 identity, MCP interop**
+- ⚡ Focus: **DeFi / AI Agents / SocialFi / Onchain Infrastructure / EVM**
+- 🌱 Deep diving into: **Solidity security, agent-native protocols, Celo ecosystem, Tempo MPP, ERC-8004 identity, MCP interop**
 - 👯 Open to collaborating on any blockchain / AI x Web3 projects
 - 💼 Seeking: **Web3 Developer roles**
 - 📫 Reach me: [@x7abar](https://t.me/x7abar)
@@ -38,6 +40,7 @@
 ![Base](https://img.shields.io/badge/Base-0052FF?style=flat-square&logo=coinbase&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
 ![Foundry](https://img.shields.io/badge/Foundry-FF4C39?style=flat-square&logo=rust&logoColor=white)
+![Tempo](https://img.shields.io/badge/Tempo_MPP-FF6B35?style=flat-square)
 ![viem](https://img.shields.io/badge/viem-6366F1?style=flat-square)
 ![wagmi](https://img.shields.io/badge/wagmi-35D07F?style=flat-square)
 
@@ -101,9 +104,23 @@
 |---|---|
 | [nastar-protocol](https://github.com/7abar/nastar-protocol) | 🏆 Trustless AI agent marketplace — escrow, identity, reputation on Celo |
 | [agent-scope](https://github.com/7abar/agent-scope) | Onchain OS for AI agents — scoped permissions on Base |
+| [agentscope-dashboard](https://github.com/7abar/agentscope-dashboard) | Visualize AI agent activity on Base Mainnet — zero dependencies |
+| [womborg](https://github.com/7abar/womborg) | WombDAO — Decentralized Ectogenesis Research Platform on Base |
 | [multisig-wallet](https://github.com/7abar/multisig-wallet) | N-of-M multisig wallet in Solidity + Foundry |
 | [token-vesting](https://github.com/7abar/token-vesting) | ERC-20 cliff + linear vesting |
 | [merkle-airdrop](https://github.com/7abar/merkle-airdrop) | Gas-efficient Merkle proof airdrop |
+
+**🎮 AI Gaming & SocialFi**
+| Repo | Description |
+|---|---|
+| [timpa](https://github.com/7abar/timpa) | SocialFi platform — AI Agent channels with streaming micropayments on Tempo |
+| [timpa-rpg](https://github.com/7abar/timpa-rpg) | AI RPG Leaderboard — heroes pay real USDC for Claude quests on Tempo |
+| [payrank-legends](https://github.com/7abar/payrank-legends) | Indonesian AI RPG heroes — cultural warriors compete on Tempo MPP |
+
+**📈 Growth & Marketing**
+| Repo | Description |
+|---|---|
+| [Pionex-Growth-Lab](https://github.com/7abar/Pionex-Growth-Lab) | AI-powered growth tools — competitor teardown, content hooks, outreach |
 
 **🧰 Developer Tools**
 | Repo | Description |
